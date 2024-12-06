@@ -1,4 +1,4 @@
-module github.com/ydarias/xk6-nats
+module github.com/cosmonic-labs/xk6-nats
 
 go 1.23.1
 
